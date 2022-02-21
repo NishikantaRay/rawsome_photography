@@ -1766,9 +1766,9 @@ ol.comment-list li.comment .comment-author .avatar {
     left: -40px;
     width: 150px;
     height: 150px;
-    border-radius: 100%;
-    -webkit-border-radius: 100%;
-    -moz-border-radius: 100%;
+    /* border-radius: 100%; */
+    /* -webkit-border-radius: 100%; */
+    /* -moz-border-radius: 100%; */
     background-color: #fff;
 }
 ol.comment-list li.comment .comment-author .name {
